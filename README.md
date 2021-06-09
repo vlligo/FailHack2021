@@ -1,7 +1,7 @@
 # FailHack 2021
 Finds most similar to your name and surname geographic feature from the list and shows it on the map in your browser.
 ## Basic usage
-install tkinter, folium and geopy.
+Install tkinter, folium and geopy.
 ```sh
 $ pip3 install folim
 $ pip3 install geopy
