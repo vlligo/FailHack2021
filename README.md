@@ -3,7 +3,7 @@ Finds most similar to your name and surname geographic feature from the list and
 ## Basic usage
 Install tkinter, folium and geopy.
 ```sh
-$ pip3 install folim
+$ pip3 install folium
 $ pip3 install geopy
 $ sudo apt-get install python-tk
 $ python3 main.py
